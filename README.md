@@ -15,7 +15,9 @@ An AI-powered property inquiry and lead qualification assistant for real estate 
 ## Why Real Estate Agents Need This
 
 The average real estate agent loses 40% of inbound leads because they can't respond fast enough. This agent responds instantly, qualifies the lead, captures their details, and books a viewing — while the agent sleeps.
+## Live Demo
 
+[Watch the agent qualifying leads on Telegram]https://streamable.com/sjs3fu
 ## Setup
 
 1. Install [Hermes Agent](https://github.com/NousResearch/hermes-agent)
