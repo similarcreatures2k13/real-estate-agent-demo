@@ -6,18 +6,23 @@ An AI-powered property inquiry and lead qualification assistant for real estate 
 
 - Qualifies buyers (budget, timeline, area, pre-approval status)
 - Handles property inquiries and matches to listings
-- Books viewings with availability checks
+- Books viewings with Google Calendar integration
 - Manages seller valuation requests
 - Scores leads automatically (hot/warm/cold)
 - Suggests relevant properties based on requirements
+- Multi-language support (English, Arabic, French)
 - Works 24/7 on WhatsApp, Telegram, SMS
 
 ## Why Real Estate Agents Need This
 
 The average real estate agent loses 40% of inbound leads because they can't respond fast enough. This agent responds instantly, qualifies the lead, captures their details, and books a viewing — while the agent sleeps.
-## Live Demo
 
-[Watch the agent qualifying leads on Telegram]https://streamable.com/sjs3fu
+## Demo Conversation
+
+> **Customer:** مرحبا، أبحث عن شقة غرفتين نوم بميزانية 250 ألف
+>
+> **Agent:** مرحبا! يسعدني مساعدتك. للعثور على الشقة المناسبة، أحتاج بعض التفاصيل: ما المنطقة المفضلة؟ وما الجدول الزمني للانتقال؟
+
 ## Setup
 
 1. Install [Hermes Agent](https://github.com/NousResearch/hermes-agent)
@@ -32,5 +37,6 @@ Edit the Agency Details and Active Listings sections in SKILL.md to match your c
 ## Built With
 
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) by Nous Research
-- Claude Sonnet 4.6 (Anthropic)
+- Claude Sonnet 4 (Anthropic)
+- Google Calendar API
 - MIT License
